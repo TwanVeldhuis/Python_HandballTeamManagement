@@ -1,4 +1,4 @@
-# Python_HandballTeamManagement
+# Handball Team Management
 This object-oriented program is built to register and administrate handball teams for a handball event. The program itself is controllable using a console menu and is only made to manage the teams within the event. The program will not keep track of any games or results that take place in during the event. The program can apply all the CRUD operations on these teams and these are specifically:
  - Create
     - Create a Team
